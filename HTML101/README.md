@@ -37,7 +37,6 @@ Find out more
 
 ### HTML shell
 ...
-    <!DOCTYPE html>
     <html>
     <head>
         <meta charset="UTF-8">
