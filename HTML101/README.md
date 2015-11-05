@@ -16,6 +16,7 @@ code samples and links for the CHE Hacks HTML 101 workshop
 Below are code samples to begin the workshop exercise.  Cut and paste them.
 
 ### Text
+```
 Skip to main content
 Monty Python
 Find out all about Monty Python here!
@@ -34,11 +35,21 @@ Monty Python's Flying Circus
 Monty Python's Flying Circus was a comedy sketch show.  It first aired on the BBC in 1969.
 Monty Python's Flying Circus was known for its slapstick humor, sight gags, risque innuendos, and strange animation sequences.
 Find out more
+```
 
 ### HTML shell
-...
-    test
-...
+```
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+    </head>
+    <body>
+    </body>
+    </html>
+```
 
 ## About The Instructor
 
