@@ -53,7 +53,7 @@ Find out more
 
 ## About The Instructor
 
-Adina Halter is Product Owner and Chief Technologist for Accessibility at Comcast.
+**Adina Halter** is Product Owner and Chief Technologist for Accessibility at Comcast NBC Universal.
 
 Prior to this she was Front-end Architect for eBusiness.  She wrote the Standards and Best Practices for HTML, CSS, JavaScript, and Accessibility for Comcast.
 
