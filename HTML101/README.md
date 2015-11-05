@@ -4,7 +4,7 @@ code samples and links for the CHE Hacks HTML 101 workshop
 
 ## Links
 
-* [slide show](https://docs.google.com/presentation/d/1nDkKCzDNNeuvB1j1zwg1yCCjqYRpbQ-MMloqLDh1N3k/edit?usp=sharing)
+* [slide show](https://github.com/CHEhacks/workshops/blob/master/HTML101/HTML_101_Workshop.pdf)
 * [HTML validator](https://html5.validator.nu/)
 * [tota11y accessibility validator](http://khan.github.io/tota11y/)
 * [aXe accessibility validator (Chrome plugin)](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)
