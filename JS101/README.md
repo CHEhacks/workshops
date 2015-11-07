@@ -4,7 +4,7 @@ code samples and links for the CHE Hacks JavaScript 101 workshop
 
 ## Links
 
-* [slide show](https://github.com/CHEhacks/workshops/blob/master/JS101/JS_101_Workshop.pdf)
+* [slide show](https://github.com/CHEhacks/workshops/blob/master/JS101/JavaScript_101_Workshop.pdf)
 * [JS Hint](http://www.css-validator.org/)
 * [JS Lint](http://www.jslint.com/)
 * [JavaScript Reference](http://www.w3schools.com/jsref/)
