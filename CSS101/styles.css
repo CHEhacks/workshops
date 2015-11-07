@@ -1,0 +1,63 @@
+html {
+    font-size: 62.5%;
+    font-family: Arial, sans-serif;
+}
+body {
+    font-size: 1.3rem;
+    margin: 30px;
+    background-color: #fff1c6;
+}
+section {
+    overflow: hidden;
+}
+h1, h2 {
+    color: #009;
+}
+h1 {
+    font-size: 2.8rem;
+    border-bottom: 2px dotted #009;
+    padding-bottom: 1ex;
+}
+h2 {
+    font-size: 1.8rem;
+}
+h1 + p {
+    color: #009;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.cast-picture {
+    width: 200px;
+    float: left;
+    margin-right: 3em;
+}
+.button {
+    display: block;
+    text-decoration: none;
+    width: 200px;
+    height: 60px;
+    background-color: #c00;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.button:hover {
+    background-color: #009;
+}
+.nav-link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    background-color: #595959; /* instead of #686868 */
+    font-size: 1.5rem;
+    color: #FFE680;
+}
+.nav-link:hover {
+    color: white;
+}
+:focus {
+    outline-color: red;
+}
