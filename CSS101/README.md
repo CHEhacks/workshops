@@ -14,7 +14,7 @@ code samples and links for the CHE Hacks CSS 101 workshop
 Below are code samples to begin the workshop exercise.  Cut and paste them.
 
 ### HTML
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
