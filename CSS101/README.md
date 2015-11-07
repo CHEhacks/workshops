@@ -4,7 +4,7 @@ code samples and links for the CHE Hacks CSS 101 workshop
 
 ## Links
 
-* [slide show](https://github.com/CHEhacks/workshops/blob/master/CSS101/CSS_101_Workshop.pdf)
+* [slide show](https://github.com/CHEhacks/workshops/blob/master/CSS101/CSS_101_workshop.pdf)
 * [CSS validator](http://www.css-validator.org/)
 * [color contrast checker](http://webaim.org/resources/contrastchecker/)
 * [CSS properties](http://www.w3schools.com/cssref/)
