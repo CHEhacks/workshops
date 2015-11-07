@@ -42,7 +42,7 @@ Find out more
 ```
 
 ### HTML shell
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
