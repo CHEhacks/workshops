@@ -13,6 +13,6 @@ function openAccordion() {
 
 
 accordionButtons = document.getElementsByClassName('accordion-control');
-for(var i=0;i<accordionButtons.length;i++) {
+for(var i=0; i < accordionButtons.length; i++) {
 	accordionButtons[i].onclick = openAccordion;
 }
