@@ -30,10 +30,10 @@ Below are code samples to begin the workshop exercise.  Cut and paste them.
 		<a href="shows-and-movies.html">Shows and Movies</a>
 		<a href="learn-more.html">Learn More</a>
 	</nav>
+	<h1>Monty Python</h1>
+	<p>Here you will find out all you wanted to know about Monty Python!</p>
 	<article id="main">
 		<section>
-			<h1>Monty Python</h1>
-			<p>Here you will find out all you wanted to know about Monty Python!</p>
 			<p>Monty Python is a group of commedians (and one cartoonist) who created the British television show called <em>Monty Python's Flying Circus</em>.  Later they branched out into movies as well.</p>
 		</section>
 		<section>
@@ -59,6 +59,8 @@ Below are code samples to begin the workshop exercise.  Cut and paste them.
 			<a href="http://montypython.wikia.com/wiki/Main_Page" class="btn btn-primary">Find out more</a>
 		</div>
 	</article>
+	<!-- SCRIPTS -->
+	<script type="text/javascript" src="scripts.js"></script>
 </body>
 </html>
 ```
